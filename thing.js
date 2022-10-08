@@ -1,1 +1,2 @@
+/// thing.js
 prompt('hi')
